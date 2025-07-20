@@ -1,0 +1,18 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: var(--blue-color);
+    color: #fff;
+}
+.navbar__logo h1{
+    font-weight: 600;
+}
+.navbar__custom-menu{
+    background-color: transparent;
+    width: 50%;
+    border-bottom: none;
+    justify-content: flex-end;
+}
+
